@@ -1,8 +1,6 @@
-Project: QATEST- MINI GAME 
-
-Time: 10/3/2024 – 13/3/2023 
-
-Description:
++Project: [ReactJS]QATEST- MINI GAME 
++Time: 10/3/2024 – 13/3/2023 
++Description:
 
 Overview:This is a freelance project commissioned by the client, English Center. It is a mini-game where users (students of English Center) can participate in vocabulary exercises in the form of a mini-game.
 
